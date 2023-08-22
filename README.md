@@ -1,4 +1,4 @@
-# Mintostore-online-sales-data-analysis using Power BI
+# Power Bi - Mintostore sales - Data Analysis
 The dashboard I created is based on the data set that was found on the internet and I modified the dataset for my convenience and used it for this project. I had the extraordinary opportunity to grasp the topics from level zero to advanced. It did take a fair amount of time and several rounds of revision to absorb the extensive content that was presented and simultaneously generate visuals that are intuitive, detailed, and comprehensible.
 
 In this project, I have done:
